@@ -1,6 +1,6 @@
 {
-    "name": "mouf/javascript.jquery.jqBootstrapValidation",
-    "description": "This package contains the jqBootstrapValidation plugin for Bootstrap. It features",
+    "name": "mouf/javascript.jquery.jq-bootstrap-validation",
+    "description": "This package contains the jqBootstrapValidation plugin for Bootstrap. It features an installer for the Mouf framework.",
     "keywords": ["bootstrap", "validator", "jqBootstrapValidation"],
     "homepage": "http://mouf-php.com/packages/mouf/javascript.jquery.jqBootstrapValidation",
     "type": "mouf-library",
