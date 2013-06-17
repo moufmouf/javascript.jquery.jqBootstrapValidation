@@ -13,7 +13,7 @@ $moufManager = MoufManager::getMoufManager();
 
 WebLibraryInstaller::installLibrary("javascript.jqBootstrapValidation",
 array(
-'vendor/mouf/javascript.jqBootstrapValidation/lib/jqBootstrapValidation.js'
+'vendor/mouf/javascript.jquery.jq-bootstrap-validation/lib/jqBootstrapValidation.js'
 		), array(),	array(), false
 );
 
