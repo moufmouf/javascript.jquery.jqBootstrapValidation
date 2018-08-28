@@ -14,15 +14,18 @@
     ],
     "require": {
     	"php": ">=5.3.0",
-    	"mouf/html.utils.weblibrarymanager": "~2.0"
+        "mouf/html.utils.weblibrarymanager": "^4.0",
+        "thecodingmachine/funky": "^1"
+    },
+    "conflict": {
+        "mouf/mouf": "~2.0.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Mouf\\Javascript\\JqBootstrapValidation\\": "src/"
+      }
     },
     "extra": {
         "logo": "logo.png",
-	    "mouf": {
-	    	"install": [{
-	    		"type": "file",
-	    		"file": "install.php"
-	    	}]
-	    }
 	}
 }
